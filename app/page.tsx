@@ -984,7 +984,6 @@ export default function HomePage() {
                   <li>Kacang Bawang Jagung Manis</li>
                   <li>Basreng</li>
                   <li>Kurma</li>
-                  <li>Permen Coklat</li>
                   <li>Hampers Kacang Bawang</li>
                 </ul>
               </div>
