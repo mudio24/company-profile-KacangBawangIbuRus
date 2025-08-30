@@ -1005,7 +1005,7 @@ export default function HomePage() {
                 <ul className="space-y-2 text-sm opacity-80">
                   <li>P-IRT NO.2113212010651-29</li>
                   <li>Id Halal : 3211 0001 9024 30323</li>
-                  <li>PB-UMKU : 0220 0098 6192 9000 000 01n</li>
+                  <li>PB-UMKU : 0220 0098 6192 9000 000 01</li>
                   <li>NIB : 0220 0098 61929</li>
                 </ul>
               </div>
